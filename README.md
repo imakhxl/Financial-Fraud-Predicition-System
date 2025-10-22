@@ -26,7 +26,7 @@ Follow these steps to set up and run the application locally:
 4.  **Train the Model (Optional)**
     * If you wish to retrain the model, execute the training notebook:
         ```bash
-        jupyter notebook FraudDetection.ipynb
+        jupyter notebook fraud.ipynb
         ```
     * *Note: A pre-trained model pipeline is included (`fraud_detection_pipeline_updated.pkl`).*
 
@@ -100,7 +100,7 @@ The Streamlit web application provides an intuitive interface for real-time pred
 
 ## 📝 Notes
 
-* The complete feature engineering, model training, and saving process is detailed in `FraudDetection.ipynb`.
+* The complete feature engineering, model training, and saving process is detailed in `fraud.ipynb`.
 * The trained model and preprocessing steps are bundled and saved as: `fraud_detection_pipeline_updated.pkl`.
 
 ---
