@@ -1,6 +1,9 @@
 # 💳 Financial Fraud Detection System
 
 This project is a **Financial Fraud Detection System** built using **Python**, **Streamlit**, and **XGBoost**. It's designed to predict whether a financial transaction is fraudulent in real-time based on historical transaction data and a set of engineered features.
+<img width="1920" height="1080" alt="Screenshot (74)" src="https://github.com/user-attachments/assets/afbfca74-1988-4141-bf2d-8c41dc15c219" />
+<img width="1920" height="1080" alt="Screenshot (73)" src="https://github.com/user-attachments/assets/3f690d7a-0581-4a1a-b9ce-b94d76749b53" />
+
 
 ---
 
